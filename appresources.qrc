@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>qPad resources/Actions-folder-new-icon.png</file>
+        <file>qPad resources/Actions-help-about-icon.png</file>
+        <file>qPad resources/copy-icon.png</file>
+        <file>qPad resources/cut-icon.png</file>
+        <file>qPad resources/new-file-icon.png</file>
+        <file>qPad resources/Paste-icon.png</file>
+        <file>qPad resources/Redo-icon.png</file>
+        <file>qPad resources/Save-as-icon.png</file>
+        <file>qPad resources/Save-icon.png</file>
+        <file>qPad resources/Undo-icon.png</file>
+    </qresource>
+</RCC>
